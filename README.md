@@ -1,0 +1,2 @@
+# Tic-Tac-Toe
+I never did coding before which as an Engineering student of Computer Science I was supposed to. I do have knowledge of many basic concepts but never went for coding practically. But it's never too late to start learning. So I decided to take small steps to start learning Python before I move ahead to start my journey as an MBA aspirant. So here is a very small step that I took and created a Tic Tac Toe game.
